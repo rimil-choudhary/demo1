@@ -1,2 +1,3 @@
 # demo1
-this is my first Git Respiratory
+This is my first Git Respiratory.
+Author - Rimil
